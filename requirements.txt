@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+SpeechRecognition
+pyttsx3
+joblib
+pyaudio

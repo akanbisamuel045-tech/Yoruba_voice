@@ -1,0 +1,44 @@
+# Python virtual environments
+venv/
+venv_*/
+.venv/
+env/
+ENV/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Model checkpoints & heavy weights (>100MB exceeds GitHub push limits)
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.nemo
+models/whisper_yoruba/
+models/conformer_yoruba/
+models/yoruba_conformer/
+lightning_logs/
+logs/
+
+# Audio caches and test media
+tts_cache/
+*.mp3
+*.wav
+*.flac
+*.ogg
+
+# Large dataset archives
+*.zip
+*.tar
+*.tar.gz
+
+# Environment and OS files
+.env
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+

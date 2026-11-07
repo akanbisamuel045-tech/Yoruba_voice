@@ -1,0 +1,719 @@
+text,intent
+e kaaro,greeting
+e kaasan,greeting
+e kaale,greeting
+bawo ni,greeting
+bawo lo se wa,greeting
+ta ni iwo,greeting
+se o wa,greeting
+mo fe ba o soro,greeting
+o daro,greeting
+o daaro,greeting
+o dabo,farewell
+mo lo,farewell
+ese pupo,thanks
+o seun,thanks
+e dupe,thanks
+pele o,greeting
+nibo ni iwo wa,greeting
+se o gbo mi,greeting
+soro didie,greeting
+jowo tun wi,greeting
+mi o gbo e,greeting
+se o ye o,greeting
+mo ni ibeere,greeting
+mo fẹ soro,greeting
+ẹ jẹ ki a sọrọ,greeting
+bawo ni ọjọ rẹ,greeting
+o ti ji,greeting
+orun rere,greeting
+mo sun daadaa,greeting
+mo rẹ,greeting
+mo fẹ sinmi,greeting
+mo ngbadun,greeting
+kini titun,greeting
+kaabo,greeting
+kii ṣe iṣoro,greeting
+o dara,greeting
+o dara pupo,greeting
+ẹ jẹ ki a bẹrẹ,greeting
+mo ti pari,greeting
+maa lo siwaju,greeting
+duro die,greeting
+ago melo ni,time
+akoko melo ni oni,time
+kini ojo oni,date
+ojo wo ni oni,date
+ojo wo ni ola,date
+osu wo ni bayi,date
+odun wo ni bayi,date
+se o le so akoko fun mi,time
+melo ni aago bayi,time
+kini aago bayi,time
+kini ojo loni,date
+kini ojo ana,date
+kini ojo ola,date
+ọjọ melo ni osu yi,date
+osu melo ni odun,date
+ọsẹ melo ni ọdun,date
+ago melo ni oorun wọ,time
+ago melo ni oorun mọ,time
+bawo ni ojo ojo,weather
+se ojo ma ro loni,weather
+iwọn otutu melo ni loni,weather
+bawo ni ojo ojo ola,weather
+se oorun yoo tan loni,weather
+se afẹfẹ yoo fẹ,weather
+bawo ni ojo ojo ọsẹ yi,weather
+se egbon yoo rọ,weather
+bawo ni ojo ojo ni eko,weather
+kini asọtẹlẹ ojo ojo,weather
+se ojo n ro bayi,weather
+se mo nilo gẹgẹ,weather
+ojo ojo iru wo ni loni,weather
+bawo ni afẹfẹ ojo,weather
+kini ipo ojo ojo,weather
+se igba otutu ti de,weather
+se igba gbigbẹ,weather
+igba wo ni igba ojo,weather
+sii kọmputa,explorer
+di kọmputa mo,lock
+tun bẹrẹ kọmputa,restart
+sii faili,explorer
+sii faili explorer,explorer
+faili,explorer
+sii awọn faili,explorer
+pa faili,explorer
+fipamọ faili,explorer
+daakọ faili,explorer
+gbe faili lọ,explorer
+sii notepad,notepad
+pa notepad,close_notepad
+sii calculator,calculator
+sii iṣiro,calculator
+sii task manager,taskmanager
+sii control panel,settings
+sii settings,settings
+sii windows settings,settings
+din ohun ku,volume_down
+gbe ohun soke,volume_up
+pa ohun run,mute
+tan ohun,volume_up
+din imọlẹ ku,brightness_down
+gbe imọlẹ soke,brightness_up
+sii browser,browser
+sii aṣawakiri,browser
+sii tab titun,browser
+tun gba oju opo,browser
+pa tab,close_browser
+wa nkan,search
+wa faili,explorer
+sii powershell,powershell
+sii terminal,cmd
+sii git bash,cmd
+sii imeeli,browser
+sii calendar,calendar
+sii excel,excel
+sii word,word
+sii microsoft powerpoint,powerpoint
+pa gbogbo window,explorer
+tiipa kọmputa,lock
+jade kuro ninu eto,exit
+tan music,music
+pa music,music
+ko orin,music
+gbe orin soke,music
+din orin ku,music
+orin to nbọ,music
+orin ti o kọja,music
+tun orin yi ṣe,music
+pa ohun run fun orin,music
+tan ohun orin,music
+ṣii youtube,browser
+ṣii spotify,spotify
+orin yoruba,music
+orin fuji,music
+orin juju,music
+orin afrobeat,music
+ṣii netflix,browser
+ṣii fiimu,browser
+ṣii galẹri,explorer
+wo fọto mi,explorer
+wa nkan fun mi,search
+wa lori google,search
+ṣii google,browser
+ṣii facebook,browser
+ṣii twitter,browser
+ṣii instagram,browser
+ṣii whatsapp,whatsapp
+firanṣẹ ifiranṣẹ,whatsapp
+ka ifiranṣẹ mi,whatsapp
+kini iroyin loni,search
+iroyin naijiria loni,search
+ṣii map,browser
+wa itọsọna,search
+kini iye owo dola,search
+kini iye owo naira,search
+kini iye owo pound,search
+ṣe iṣiro owo,calculator
+kini orukọ aare naijiria,search
+kini olu ilu naijiria,search
+kini wikipedia sọ nipa,search
+tumọ ọrọ yi,search
+tumọ si yoruba,search
+tumọ si gẹẹsi,search
+wa faili ti o parẹ,explorer
+pa itan aṣawakiri,browser
+sii ipo aladani,browser
+ṣii linkedin,browser
+ṣii jumia,browser
+ṣii konga,browser
+ṣii amazon,browser
+ṣii telegram,browser
+ṣii zoom,browser
+sii chrome,chrome
+ṣii google chrome,chrome
+chrome,chrome
+ran mi lowo,greeting
+mo nilo iranlowo,greeting
+kini iwo le se fun mi,greeting
+se o le ran mi lowo,greeting
+kini awon iṣẹ rẹ,greeting
+dahun ibeere mi,greeting
+se o mọ,search
+ṣe iranlọwọ,greeting
+ran mi lowo pẹlu ibeere,greeting
+kini oruko re,name
+kini orukọ rẹ,name
+ta lo iwo,name
+se o mọ orukọ rẹ,name
+orukọ rẹ ni kini,name
+soo fun mi orukọ rẹ,name
+kini a pe ẹ,name
+odabo,farewell
+mo feran rẹ,thanks
+e seun,thanks
+e seun pupo,thanks
+dupe lowo re,thanks
+ko to nkan,thanks
+ko si wahala,thanks
+pa kọmputa,shutdown
+paa kọmputa,shutdown
+sii windows explorer,explorer
+shutdown,shutdown
+tun bẹrẹ,restart
+restart,restart
+di mọ,lock
+lock kọmputa,lock
+tiipa,lock
+afefe,weather
+ago mefa,time
+ago mejo,time
+akoko melo,time
+akoko melo ni,time
+alarinrin melo,time
+ale,greeting
+ayelujara,browser
+bawo ni afefe ojo,weather
+bawo ni oju ojo,weather
+bawo ni ọna lọ si,search
+beeni mo gbo e gangan,greeting
+beeni mo ti ji,greeting
+beeni mo wa nibi fun e,greeting
+beeni mo ye e daadaa,greeting
+bẹrẹ,greeting
+bẹrẹ siwaju,greeting
+daakọ ọna abẹlẹ,explorer
+daakọ ọrọ,explorer
+daba nkan fun mi,greeting
+dahun ifiranṣẹ mi,whatsapp
+di komputa mo,lock
+din imole ku,brightness_down
+duro,greeting
+e je ki a bere,greeting
+e jowo,greeting
+e ku ise mo dupe,thanks
+e ran mi lowo,greeting
+e se,thanks
+eid,greeting
+ejo e gba mi lowo,greeting
+ejowo,greeting
+ekaale,greeting
+ekaaro,greeting
+ekaasan,greeting
+eku ale,greeting
+eku aro,greeting
+eku ojo,greeting
+elo ni eniyan ti o wa ni naijiria,search
+faili lori whatsapp,whatsapp
+fipamọ oju opo,browser
+firanṣẹ fọto,whatsapp
+fun mi ni alaye oju ojo,weather
+fun mi ni imọran,greeting
+gba faili lati ayelujara,browser
+gba mi lowo,greeting
+gba orin,music
+gbe chrome sile,chrome
+gbe faili,explorer
+gbe faili soke,explorer
+gbe imole soke,brightness_up
+gbe ohun radio soke,music
+google e,search
+ibo ni banki,search
+ibo ni ile itaja,search
+ibo ni ile iwe,search
+ibo ni ile iwosan,search
+ibo ni ile iwosan to sumo ju,search
+idara,greeting
+idaraya,greeting
+igba wo ni mo gba imeeli,browser
+igbawo ni ojo isimi,date
+igbawo ni ojo yoo ro,weather
+ile itaja,search
+ipade,browser
+ipo batiri,battery
+irora ori,greeting
+iroyin ere idaraya,search
+iroyin iṣowo loni,search
+iroyin ẹkọ loni,search
+isoro,greeting
+iwosan,search
+iye owo naira si dola ni,search
+jẹ ki n mọ,greeting
+jẹ ki n wa alaye fun ẹ,search
+kesimesi,greeting
+ki ni akoko,time
+ki ni akoko bayi,time
+ki ni date oni,date
+ki ni e npe e,name
+ki ni ojo oni,date
+ki ni oju ojo,weather
+ki ni oruko re,name
+kini alarinrin mi,time
+kini iyara ayelujara mi,search
+kini orin ti o fẹ wa,music
+kini orukọ aare orilede naijiria,search
+kini tuntun,greeting
+kini ọrọ ti o fẹ tumọ,search
+ko iwe ni word,word
+ko nkan sinu notepad,notepad
+ko orin fun mi,music
+komputa,explorer
+lock komputa,lock
+lo siwaju,browser
+lo sẹhin,browser
+mo fe calculator,calculator
+mo fe chrome,chrome
+mo fe explorer,explorer
+mo fe notepad,notepad
+mo fe settings,settings
+mo fe soro,greeting
+mo fe tesiwaju,greeting
+mo fe vscode,vscode
+mo fe whatsapp,whatsapp
+mo fe word,word
+mu orin dun,music
+mu orin ṣiṣẹ,music
+mute ohun,mute
+nibo lowa,greeting
+nle o,greeting
+odaro,greeting
+odun titun,greeting
+ojo ise,date
+ojo maro,greeting
+ojo melo ni osu yi,date
+ojo toku,date
+ojo yoo ro ni,weather
+oju ojo,weather
+ooru,weather
+oorun,weather
+oruko e,name
+oruko re tani,name
+osu mejila ni ọdun,date
+owuro,time
+pa alarinrin,time
+pa ayelujara,browser
+pa browser,browser
+pa data gbangba,settings
+pa faili run,close_explorer
+da faili duro,close_explorer
+da file duro,close_explorer
+da explorer duro,close_explorer
+pa faili,close_explorer
+pa file,close_explorer
+pa explorer,close_explorer
+pa fọto run,close_explorer
+pa igbasilẹ ohun,mute
+pa komputa,shutdown
+pa vpn,browser
+pa wifi,wifi_off
+pada sẹhin,browser
+pari,greeting
+pele,greeting
+ran mi lowo pẹlu eto,greeting
+restart komputa,restart
+se alaafia ni,greeting
+se dada ni,greeting
+se eniyan ni e,greeting
+se iwadi,search
+se o ranti mi,greeting
+se orun yoo wa,weather
+se owa,greeting
+se oye o,greeting
+se robot ni e,greeting
+seda apo tuntun,explorer
+seto alarinrin,time
+seto data gbangba,settings
+seto iranti,time
+shutdown komputa,shutdown
+si amazon,browser
+si calendar,browser
+si faili,explorer
+si footo,explorer
+si google chrome,chrome
+si imeeli,browser
+si komputa,explorer
+si linkedin,browser
+si maapu,browser
+si microsoft word,word
+si notepad,notepad
+sii powerpoint,powerpoint
+si twitter,browser
+si vscode,vscode
+si whatsapp,whatsapp
+si whatsapp web,whatsapp
+si youtube,browser
+sii calc,calculator
+sii code editor,vscode
+sii command prompt,cmd
+sii device manager,settings
+sii edge,browser
+sii eto ipinya,settings
+sii eto komputa,settings
+sii explorer,explorer
+sii file explorer,explorer
+sii folda mi,explorer
+sii fọto,explorer
+sii google chrome,chrome
+sii internet,browser
+sii microsoft word,word
+sii ms word,word
+sii music,music
+sii office word,word
+sii visual code,vscode
+sii visual studio code,vscode
+sii vs code,vscode
+sii whatsapp lori browser,whatsapp
+sii whatsapp web,whatsapp
+so akoko,time
+so akoko fun mi,time
+so fun mi akoko,time
+so fun mi nkan kan,greeting
+so ojo oni,date
+so oju ojo,weather
+soro diedie,greeting
+soro giga,greeting
+ta lo je,greeting
+ta ni o da e,name
+tan bluetooth,bluetooth_on
+tan calculator,calculator
+da calculator duro,close_calculator
+fi calculator sile,close_calculator
+tan chrome,chrome
+tan cmd,cmd
+tan explorer,explorer
+tan notepad,notepad
+tan powershell,powershell
+gbe powershell soke,powershell
+pa powershell,powershell
+tan radio,music
+tan settings,settings
+tan task manager,taskmanager
+tan vscode,vscode
+tan whatsapp web,whatsapp
+tan wifi,wifi_on
+tan word,word
+tun fipamọ faili,explorer
+tun komputa bere,restart
+tun ṣalaye,greeting
+tun ẹrọ bẹrẹ,restart
+wa ai,search
+wa alaye,search
+wa eniyan lori ayelujara,search
+wa fideo lori youtube,browser
+wa ibi je ounje,search
+wa ile lori ayelujara,search
+wa iṣẹ lori ayelujara,search
+wa lori ayelujara,browser
+wa machine learning,search
+wa orin lori ayelujara,music
+wa python,search
+wa ọja lori ayelujara,search
+wo ipo asopọ,settings
+wo ipo batiri,battery
+yipada olumulo,settings
+yo alarinrin,time
+ṣalaye si mi,greeting
+ṣatunkọ fọto,explorer
+ṣe ipadabọ faili,explorer
+ṣe iṣiro iyara ayelujara,search
+ṣeto asopọ ayelujara,settings
+ṣeto data gbangba,settings
+ṣeto foju iboju,settings
+ṣii ayelujara,browser
+ṣii oju opo ayelujara,browser
+gbe browser wale,close_browser
+ọjọ mi dara e seun,greeting
+xifaili xplora,file
+dan exploga,file
+tani explorer,file
+sii file explorer,file
+mofe explore,file
+mofe file explore,file
+mofe file,file
+sii file explorer,explorer
+mofe explore,explorer
+mofe file explore,explorer
+mofe file,explorer
+eka son mufi uri bali,greeting
+kale baunio jori,greeting
+eka aro,greeting
+e kasu,greeting
+tini yo'u holes,name
+uruko mini asisi tan,name
+keni uruko are orile de ningeria,name
+muwa oruko are orile de nangira afwen,name
+kini yu kwa owe,name
+kini ul kore,name
+o komini asisitan,name
+si powerpoint,powerpoint
+word,word
+microsoft word,word
+țan microsoft word,word
+tan word,word
+sii microsoft word,word
+mo dupe,thanks
+eku ise,thanks
+ya aworan iboju,screenshot
+ya screenshot,screenshot
+chup iboju,screenshot
+ya fọto iboju,screenshot
+screenshot,screenshot
+aworan iboju,screenshot
+di notepad mo,close_notepad
+pa eto notepad,close_notepad
+da  notepad duro,close_notepad
+pa notepad,close_notepad
+fi notepad sile,close_notepad
+pa chrome,close_chrome
+di chrome mo,close_chrome
+pa google chrome,close_chrome
+fi chrome sile,close_chrome
+jo pa chrome,close_chrome
+pa app,close_app
+pa eto yi,close_app
+di eto mo,close_app
+da app duro,close_app
+fi eto sile,close_app
+pa program,close_app
+pa word,close_word
+di word mo,close_word
+da word duro,close_word
+da microsoft word duro,close_word
+fi microsoft word sile,close_word
+fi word sile,close_word
+pa microsoft word,close_word
+pa excel,close_excel
+di excel mo,close_excel
+di tab mo,close_tab
+pa tab yi,close_tab
+jo pa tab,close_tab
+se igbasilẹ iboju,screenshot
+fipamo iboju,screenshot
+ya foto iboju,screenshot
+capture iboju,screenshot
+ya aworan screen,screenshot
+pa whatsapp,close_whatsapp
+di whatsapp mo,close_whatsapp
+pa vscode,close_vscode
+pa vs code,close_vscode
+di vscode mo,close_vscode
+da vscode duro,close_vscode
+di tab yi mo,close_tab
+jo pa tab yi,close_tab
+pa tab browser,close_tab
+pa tab yii,close_tab
+close tab,close_tab
+pa tab naa,close_tab
+di tab naa mo,close_tab
+mu ohun posi,volume_up
+ohun soke,volume_up
+gbe ariwo soke,volume_up
+increase volume,volume_up
+loud re,volume_up
+gbe ohun,volume_up
+din ariwo ku,volume_down
+ohun kekere,volume_down
+mu ohun kekere,volume_down
+reduce volume,volume_down
+din ohun,volume_down
+ohun di kekere,volume_down
+pa ohun,mute
+mute,mute
+pa ariwo,mute
+ohun pa,mute
+ko si ohun,mute
+wifi on,wifi_on
+so wifi,wifi_on
+mu wifi sise,wifi_on
+wifi tan,wifi_on
+tan ayelujara,wifi_on
+connect wifi,wifi_on
+wifi off,wifi_off
+fi wifi sile,wifi_off
+wifi pa,wifi_off
+disconnect wifi,wifi_off
+pa asopo,wifi_off
+bluetooth on,bluetooth_on
+mu bluetooth sise,bluetooth_on
+sii bluetooth,bluetooth_on
+connect bluetooth,bluetooth_on
+tan bt,bluetooth_on
+pa bluetooth,bluetooth_off
+bluetooth off,bluetooth_off
+fi bluetooth sile,bluetooth_off
+bluetooth pa,bluetooth_off
+disconnect bluetooth,bluetooth_off
+pa bt,bluetooth_off
+stop bluetooth,bluetooth_off
+imole soke,brightness_up
+mu imole posi,brightness_up
+increase brightness,brightness_up
+gbe ina soke,brightness_up
+imole di giga,brightness_up
+gbe imọle soke,brightness_up
+imole kekere,brightness_down
+mu imole kekere,brightness_down
+reduce brightness,brightness_down
+din ina ku,brightness_down
+imole di kekere,brightness_down
+din imọle ku,brightness_down
+gbe imole wale,brightness_down
+din imole wale,brightness_down
+imole wale,brightness_down
+gbe imole lo,brightness_up
+ohun wale,volume_down
+gbe ohun wale,volume_down
+wifi duro,wifi_off
+wifi sise,wifi_on
+bluetooth duro,bluetooth_off
+bluetooth sise,bluetooth_on
+bluetooth,bluetooth_on
+excel,excel
+gbe notepad wale,close_notepad
+taabu yii,close_tab
+imole ku,brightness_down
+foto iboju,screenshot
+e kmputa lekansi,restart
+tun bere,restart
+bere lekansi,restart
+kmputa lekansi,restart
+tun komputa,restart
+pa excel,close_excel
+bluetooth tan,bluetooth_on
+ohun ku,volume_down
+foto ya,screenshot
+ya foto,screenshot
+tab pa,close_tab
+tab yi pa,close_tab
+word,word
+vscode,vscode
+calculator,calculator
+whatsapp,whatsapp
+settings,settings
+powershell,powershell
+explorer,explorer
+powerpoint,powerpoint
+camera,camera
+store,store
+wifi,wifi_off
+ohun,volume_up
+imole,brightness_up
+komputa mo,lock
+komputa lekansi,restart
+komputa pa,shutdown
+tab yi,close_tab
+tab naa,close_tab
+eto yi,close_app
+screen pa,lock
+sii chrome,chrome
+sii word,word
+tan excel,excel
+tan microsoft excel,excel
+sii microsoft excel,excel
+sii notepad,notepad
+sii vscode,vscode
+sii calculator,calculator
+pa calculator,close_calculator
+sii whatsapp,whatsapp
+pa settings,close_settings
+da settings duro, close_settings
+sii explorer,explorer
+sii powerpoint,powerpoint
+sii camera,camera
+pa browser,close_browser
+sii task manager,taskmanager
+mo fe powershell,powershell
+sii cmd,cmd
+a wifi,wifi_off
+a bluetooth,bluetooth_off
+an wifi,wifi_on
+an bluetooth,bluetooth_on
+be ohun soke,volume_up
+be ohun ku,volume_down
+be imole soke,brightness_up
+din imole ku,brightness_down
+din ohun ku,volume_down
+din imole kmputa,brightness_down
+din imole ku,brightness_down
+imole kmputa,brightness_down
+microsoft store,store
+windows store,store
+sii microsoft store,store
+tore,store
+terminal,cmd
+command prompt,cmd
+sii terminal,cmd
+sii command prompt,cmd
+sii cmd,cmd
+pa cmd,close_cmd
+da cmd duro,close_cmd
+fi cmd sile,close_cmd
+sii microsoft powerpoint,powerpoint
+power point,powerpoint
+presentation,powerpoint
+pa word,close_word
+pa microsoft powerpoint,close_powerpoint
+da microsoft powerpoint duro,close_powerpoint
+da powerpoint duro,close_powerpoint
+pa google chrome,close_chrome
+pa whatsapp,close_whatsapp
+pa vscode,close_vscode
+pa eto,close_app
+eto pa,close_app
+pa window,close_app
+pa word,close_word
+pa microsoft excel,close_excel
+pa excel,close_excel
+fi excel sile,close_excel
+fi microsoft excel sile,close_excel
+da microsoft excel duro,close_excel
+da excel duro,close_excel
+pa chrome,close_chrome
+pa notepad,close_notepad
+da whatsapp duro,close_whatsapp
+fi whatsapp sile,close_whatsapp
+fi vscode sile,close_vscode
+pa app,close_app
+pa tab,close_tab
+pa powerpoint,close_powerpoint
